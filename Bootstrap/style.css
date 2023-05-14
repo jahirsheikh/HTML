@@ -1,0 +1,37 @@
+nav{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(170, 226, 193);
+    padding: 5px;
+}
+
+nav ul {
+   list-style-type: none;
+   float: left;
+   margin: 0 0 0 5px;
+}
+
+nav ul li{
+    float: left;
+    margin: 10px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    background-color: blue;
+}
+
+
+#list  {
+
+    list-style-type: square;
+}
+
+#update{
+
+    float: right;
+    padding: 0 200px  ;
+}
